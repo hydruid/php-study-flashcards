@@ -85,10 +85,10 @@ if ($result->num_rows > 0) {
 } 
 
 echo '<input type="submit" value="Submit"><br><br><br>';
-echo  "<img src=./images/$IDURL.jpg>";
-echo  "<img src=./images/$IDURL-2.jpg>";
-echo  "<img src=./images/$IDURL-3.jpg>";
-echo  "<img src=./images/$IDURL-4.jpg>";
+echo  "<img src=./images/$IDURL.jpg><br>";
+echo  "<img src=./images/$IDURL-2.jpg><br>";
+echo  "<img src=./images/$IDURL-3.jpg><br>";
+echo  "<img src=./images/$IDURL-4.jpg><br>";
 echo  "<img src=./images/$IDURL-5.jpg>";
 ?>
 
