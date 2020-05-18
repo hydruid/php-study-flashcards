@@ -1,1 +1,0 @@
-mysqldump -u zabbix -p phpstudyflashcards > phpstudyflashcards.sql
